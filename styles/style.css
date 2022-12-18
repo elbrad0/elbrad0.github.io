@@ -1,0 +1,68 @@
+html {
+	font-size: 60px; /* px means "pixels": the base font size is now 10 pixels high */
+	font-family: 'Dancing Script', cursive;
+	background-color: #D1D1D1;
+}
+
+body {
+  width: 800px;
+  margin: 0 auto;
+  background-color: #F1F1F1;
+  padding: 0 30px 30px 30px;
+  border: 5px solid black;
+}
+
+h1 {
+  font-size: 80px;
+  text-align: center;
+  margin: 0;
+  padding: 20px 0;
+  color: #D1D1D1;
+  text-shadow: 3px 3px 1px black;
+}
+
+h2 {
+  font-size: 70px;
+  text-align: center;
+  margin: 0;
+  padding: 20px 0;
+  color: #D1D1D1;
+  text-shadow: 3px 3px 1px black;
+}
+
+h3 {
+  font-size: 60px;
+  text-align: center;
+  margin: 0;
+  padding: 20px 0;
+  color: #D1D1D1;
+  text-shadow: 3px 3px 1px black;
+}
+
+h4 {
+  font-size: 50px;
+  text-align: center;
+  margin: 0;
+  padding: 20px 0;
+  color: #D1D1D1;
+  text-shadow: 3px 3px 1px black;
+}
+
+img {
+  display: block;
+  margin: 0 auto;
+}
+
+p,
+li {
+  font-size: 32px;
+  line-height: 2;
+  letter-spacing: 1px;
+  text-align: center;
+}
+
+ul {
+    text-align: center;
+    list-style-position: inside;
+}
+
